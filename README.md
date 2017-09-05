@@ -1,3 +1,5 @@
+由谷歌工程师开发，展示Google Material风格设计，项目代码量大，但是结构清晰，还是很好理解的。
+
 # Plaid
 
 <img src="screenshots/plaid_demo.gif" width="400" align="right" hspace="20">
